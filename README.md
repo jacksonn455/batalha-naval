@@ -1,7 +1,7 @@
 Programa para matéria de Linguagem de programação 2
 ===============================================
 
-- Este relatório tem como principal objetivo descrever como foi desenvolvido o jogo batalha naval em linguagem Java na disciplina de Linguagem de programação II.s
+- Este relatório tem como principal objetivo descrever como foi desenvolvido o jogo batalha naval em linguagem Java na disciplina de Linguagem de programação II
 
 - [Trabalho](https://github.com/jacksonn455/batalha-naval/blob/main/Relatorio%20de%20Linguagem%20de%20programa%C3%A7%C3%A3o%202.docx)
 
