@@ -3,7 +3,7 @@ Programa para matéria de Linguagem de programação 2
 
 - Este relatório tem como principal objetivo descrever como foi desenvolvido o jogo batalha naval em linguagem Java na disciplina de Linguagem de programação II.s
 
-- [Trabalho](https://github.com/jacksonn455/Analisador-Sintatico/blob/main/Trabalho%20compiladores%20-%20Analisador%20Sint%C3%A1tico%20-%20Jackson.pdf)
+- [Trabalho](https://github.com/jacksonn455/batalha-naval/blob/main/Relatorio%20de%20Linguagem%20de%20programa%C3%A7%C3%A3o%202.docx)
 
 
 ## Autor
@@ -12,4 +12,4 @@ Programa para matéria de Linguagem de programação 2
   | :---: |
 
 --------------------
- ![](https://github.com/jacksonn455/Analisador-Sintatico/blob/main/demo.png)
+ ![](https://github.com/jacksonn455/batalha-naval/blob/main/2021-06-01%2019_20_49-Window.png)
